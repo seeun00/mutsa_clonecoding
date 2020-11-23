@@ -1,0 +1,6 @@
+*.pvc
+*~
+/.vscode
+__pycahce__
+db.sqlite3
+.DS_Store
